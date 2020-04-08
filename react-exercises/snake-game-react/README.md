@@ -2,7 +2,7 @@
 
 # Submission
 
-Game URL: _____
+Game URL: https://romantic-leakey-f51cb6.netlify.com/
 
 Mockup URL: https://balsamiq.cloud/sd1xoym/predk0c
 
